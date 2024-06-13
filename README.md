@@ -2,7 +2,7 @@
 MyToken Contract
 Description: metacrafters
 
-This is a Solidity contract for a simple token. It allows for minting and burning of tokens.
+This is a Solidity contract for a simple token "Meta". It allows for minting and burning of tokens.
 
 Features:
 
