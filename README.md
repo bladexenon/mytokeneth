@@ -1,0 +1,2 @@
+# mytokeneth
+burning token
